@@ -174,7 +174,7 @@ Throughout this internship, I strengthened my skills in:
 * UI/UX design
 * Code maintenance and debugging
 * Agile collaboration
-* Professional Git workflows
+
 
 ---
 
