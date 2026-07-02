@@ -1,4 +1,4 @@
-# YabonLaPub Admin Platform – Internship Project
+# Stage YabonLaPub 
 
 ## Overview
 
@@ -81,11 +81,7 @@ The design process included:
 * User flow improvements
 * Administrative workflow optimization
 
-### Figma Prototype
 
-🔗 **Figma Design:**
-
-[Insert Figma Link Here]
 
 ---
 
@@ -104,7 +100,7 @@ Implemented features included:
 * Create
 * Read
 * Update
-* Delete (CRUD)
+* Delete 
 
 operations for all major entities.
 
@@ -200,30 +196,9 @@ At the end of the internship:
 
 ---
 
-## Repository Contents
 
-```text
-.
-├── README.md
-├── Internship_Report.pdf
-├── Defense_Presentation.pdf
-├── Screenshots/
-└── Documentation/
-```
 
----
 
-## Internship Information
-
-**Organization:** YabonLaPub
-
-**University:** University of Lorraine
-
-**Degree:** Bachelor's Degree in Computer Science
-
-**Role:** Full-Stack Web Developer Intern
-
-**Duration:** 2025–2026
 
 ---
 
@@ -235,12 +210,4 @@ This repository is intended solely to present the project's objectives, architec
 
 ---
 
-## Author
 
-**Uba Ibegouchene**
-
-Computer Science Student – University of Lorraine
-
-GitHub: [Your GitHub Profile]
-
-LinkedIn: [Your LinkedIn Profile]
