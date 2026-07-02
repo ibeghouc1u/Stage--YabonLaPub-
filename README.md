@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents the work completed during my Bachelor's Degree Internship in Computer Science at the University of Lorraine.
+This repository documents the work completed during   Internship in Computer Science at the University of Lorraine.
 
 The internship was carried out at **YabonLaPub**, an association whose objective is to help associations raise funds through sponsored advertising campaigns.
 
